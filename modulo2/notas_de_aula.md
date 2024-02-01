@@ -1,4 +1,4 @@
-## Notas de aula referentes ao módulo II do Curso Git e Github da WoMakers Code
+## Notas de aula referentes ao módulo 2 do Curso Git e Github da WoMakers Code
 
 Nesta aula estamos aprendendo comandos bem legais e úteis.
 
